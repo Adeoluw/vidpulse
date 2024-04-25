@@ -593,14 +593,14 @@ nav > h5 {
   }
 
   .about-text {
-    margin-top: 100px;
+    margin-top: 160px;
     text-align: center;
     padding-inline: 5px;
     margin-inline: 16px;
   }
 
   .products {
-    margin-top: 100px;
+    margin-top: 150px;
     text-align: center;
     padding-inline: 5px;
     margin-inline: 16px;
@@ -653,7 +653,16 @@ nav > h5 {
     display: flex;
     gap: 20px;
     align-items: center;
-    margin-top: 40px;
+    margin-top: 75px;
     margin-inline: 15.5px;
+  }
+
+  footer{
+    padding-left: 30px;
+  }
+
+  footer ul li{
+    font-size: 15px;
+
   }
 }
