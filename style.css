@@ -821,6 +821,14 @@ footer ul li:first-child{
 footer ul li{
   display: none;
 }
+
+footer ul li:first-child:hover{
+  color: black;
+}
+
+.product-text {
+  width: auto;
+}
 }
 
 @media only screen and (max-width: 607px) {

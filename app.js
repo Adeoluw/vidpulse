@@ -142,3 +142,82 @@ social.addEventListener("click", () => {
     item.classList.toggle("block-display");
   });
 });
+
+
+
+// document.addEventListener("click", (e) => {
+//   for (let i = 0; i < platformList.length; i++) {
+//     if (!platformList[i].contains(e.target) && !web.contains(e.target)) {
+//       platformList.forEach((item) => {
+//         // Toggle the 'block-display' class on each li element
+//         item.classList.toggle("block-display");
+//       });
+//     }
+//   }
+// });
+
+// document.addEventListener("click", (e) => {
+//   for (let i = 0; i < supportList.length; i++) {
+//     if (!supportList[i].contains(e.target) && !web.contains(e.target)) {
+//       supportList.forEach((item) => {
+//         // Toggle the 'block-display' class on each li element
+//         item.classList.toggle("block-display");
+//       });
+//     }
+//   }
+// });
+
+// document.addEventListener("click", (e) => {
+//   for (let i = 0; i < featuresList.length; i++) {
+//     if (!featuresList[i].contains(e.target) && !web.contains(e.target)) {
+//       featuresList.forEach((item) => {
+//         // Toggle the 'block-display' class on each li element
+//         item.classList.toggle("block-display");
+//       });
+//     }
+//   }
+// });
+
+// document.addEventListener("click", (e) => {
+//   for (let i = 0; i < compareList.length; i++) {
+//     if (!compareList[i].contains(e.target) && !web.contains(e.target)) {
+//       compareList.forEach((item) => {
+//         // Toggle the 'block-display' class on each li element
+//         item.classList.toggle("block-display");
+//       });
+//     }
+//   }
+// });
+
+// document.addEventListener("click", (e) => {
+//   for (let i = 0; i < rescourcesList.length; i++) {
+//     if (!rescourcesList[i].contains(e.target) && !web.contains(e.target)) {
+//       rescourcesList.forEach((item) => {
+//         // Toggle the 'block-display' class on each li element
+//         item.classList.toggle("block-display");
+//       });
+//     }
+//   }
+// });
+
+// document.addEventListener("click", (e) => {
+//   for (let i = 0; i < vidpulseList.length; i++) {
+//     if (!vidpulseList[i].contains(e.target) && !web.contains(e.target)) {
+//       vidpulseList.forEach((item) => {
+//         // Toggle the 'block-display' class on each li element
+//         item.classList.toggle("block-display");
+//       });
+//     }
+//   }
+// });
+
+// document.addEventListener("click", (e) => {
+//   for (let i = 0; i < socialList.length; i++) {
+//     if (!socialList[i].contains(e.target) && !web.contains(e.target)) {
+//       socialList.forEach((item) => {
+//         // Toggle the 'block-display' class on each li element
+//         item.classList.toggle("block-display");
+//       });
+//     }
+//   }
+// });
